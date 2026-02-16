@@ -7,4 +7,4 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/HarshalB24/AI-ML-POC.git
-git push -u origin main
+git push -u origin mai

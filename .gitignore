@@ -1,0 +1,13 @@
+# Virtual environments
+venv/
+AI Chatbot/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
