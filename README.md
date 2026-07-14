@@ -1,4 +1,4 @@
-This is the beggining of this repo , i have completed the chatbot POC and i am pushing it now.
+This repo will now be used for the Data engineering and AI capstone project i will build as part of my upskilling and job prep series.
 
 commands i followed till now :
 echo "# AI-ML-POC" >> README.md
